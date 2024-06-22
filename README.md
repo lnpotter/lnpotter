@@ -2,8 +2,10 @@
 
 * My name is Lucas!
 
-* I like to program in Python, and C#, as you can see.
-  - In Python, I know how to use Django, Tornado and MongoDB. In C#, ASP.NET Core.
+* I like to program in Python, Javascript and C#, as you can see.
+  - In Python, I know how to use Django, Tornado and MongoDB.
+  - I have in-depth knowledge of Javascript, with Node, and I'm learning Vue.
+  - In C#, ASP.NET Core.
 
 * Learning Mercurial.
 
@@ -13,6 +15,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,docker,kubernetes,git,django,mongodb,linux" />
+    <img src="https://skillicons.dev/icons?i=js,py,cs,vue,docker,kubernetes,git,django,mongodb,linux" />
   </a>
 </p>
