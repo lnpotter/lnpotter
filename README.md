@@ -1,17 +1,19 @@
-### Hi there 👋
+### Olá! 👋
 
-* My name is Lucas!
+* Meu nome é Lucas!
 
-* I like to program in Python, Javascript and C#, as you can see.
-  - In Python, I know how to use Django, Tornado and MongoDB.
-  - I have in-depth knowledge of Javascript, with Node, and I'm learning Vue.
-  - In C#, ASP.NET Core.
+* Eu gosto de programar em Python, Javascript e C#, como você pode ver.
+  - Em Python, tenho conhecimento em Djang, Flask, Tornado e MongoDB.
+  - Tenho bastante conhecimento em Javascript, com Node, e estou aprendendo Vue!
+  - Em C#, tenho conhecimento em ASP .NET Core.
 
-* Learning Mercurial.
+* Aprendendo Mercurial
 
-* I also have knowledge of Docker and Kubernetes.
+* Eu também tenho bastante conhecimento em Docker e Kubernetes.
 
-* I also like to study economics, from micro to macro.
+* Gosto de estudar macro e microeconomias.
+
+* Você pode me encontrar no LinkedIn [aqui](https://www.linkedin.com/in/lucas-noal-potter-11773b25b/)
 
 <p align="center">
   <a href="https://skillicons.dev">
