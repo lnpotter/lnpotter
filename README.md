@@ -37,5 +37,6 @@ My name is Lucas Noal Pötter and I'm known as `lnpotter` online in most places.
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://golang.org/" title="Golang"><img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Golang" width="50" /></a>
   <a href="https://www.rust-lang.org/" title="Rust"><img src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" width="50" /></a>
-  <a href="https://www.ruby-lang.org/" title="Rust"><img src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Rust" width="50" /></a>
+  <a href="https://www.ruby-lang.org/" title="Ruby"><img src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" width="50" /></a>
+  <a href="https://www.lua.org/" title="Lua"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/lua/lua.png" alt="Lua" width="50" /></a>
 </div>
